@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=KillaNova&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=32&desc=backend%20%C2%B7%20automation%20%C2%B7%20the%20road%20to%20DevOps&descAlignY=54&descSize=18" width="100%"/>
 
 <!-- HERO: hand-crafted animated terminal — built by hand, not a badge service -->
-<img src="https://github.com/ObaysbaI" alt="Obay.Sbai" width="78%"/>
+<img src="https://raw.githubusercontent.com/KillaNova/KillaNova/main/terminal.svg" alt="KillaNova terminal" width="78%"/>
 
 <!-- rotating tagline -->
-<a href="https://github.com/ObaysbaI">
+<a href="https://killanova.github.io">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Backend+developer+%40+Travion;Automating+the+boring+parts;On+the+road+to+DevOps;Script+it+once%2C+never+repeat+it" alt="typing tagline"/>
 </a>
 
@@ -30,7 +30,7 @@
 
 ```python
 class Eren:
-    handle   = "ObaySbai"
+    handle   = "KillaNova"
     role     = "Junior Developer @ Travion"
     based_in = "Nijmegen, Netherlands 🇳🇱"
     focus    = "backend · automation · the road to DevOps"
@@ -46,7 +46,7 @@ class Eren:
 
 ---
 
-### `eren@nova:~$` systemctl status O.service
+### `eren@nova:~$` systemctl status killanova.service
 
 > **● killanova.service** — self-updating profile &nbsp;`active (running)`
 > Rendered by [my own Python script](https://github.com/KillaNova/python-projects/blob/main/profile/generate_readme.py) and refreshed every 6h via GitHub Actions. This profile literally runs on my own code.
