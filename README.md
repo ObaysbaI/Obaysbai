@@ -6,7 +6,7 @@
 <img src="https://github.com/ObaysbaI" alt="Obay Sbai" width="78%"/>
 
 <!-- rotating tagline -->
-<a href="https://killanova.github.io">
+<a href="https://github.com/ObaysbaI">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Backend+developer+%40+Travion;Automating+the+boring+parts;On+the+road+to+DevOps;Script+it+once%2C+never+repeat+it" alt="typing tagline"/>
 </a>
 
@@ -30,7 +30,7 @@
 
 ```python
 class Eren:
-    handle   = "KillaNova"
+    handle   = "ObaySbai"
     role     = "Junior Developer @ Travion"
     based_in = "Nijmegen, Netherlands 🇳🇱"
     focus    = "backend · automation · the road to DevOps"
