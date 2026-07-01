@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=KillaNova&fontSize=82&fontColor=fff&animation=twinkling&fontAlignY=32&desc=backend%20%C2%B7%20automation%20%C2%B7%20the%20road%20to%20DevOps&descAlignY=54&descSize=18" width="100%"/>
 
 <!-- HERO: hand-crafted animated terminal — built by hand, not a badge service -->
-<img src="https://raw.githubusercontent.com/KillaNova/KillaNova/main/terminal.svg" alt="KillaNova terminal" width="78%"/>
+<img src="https://github.com/ObaysbaI" alt="Obay Sbai" width="78%"/>
 
 <!-- rotating tagline -->
 <a href="https://killanova.github.io">
